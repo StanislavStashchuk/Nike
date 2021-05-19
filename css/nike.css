@@ -5,7 +5,7 @@ h1, h2, h3, h4, h5 {
     margin: 0 auto;
 }
 body {
-    font-family: 'MuseoModerno', cursive;
+    font-family: 'Roboto', sans-serif;
     margin: 0 auto;
     background-color: #282828;
     justify-content: center;
@@ -137,16 +137,16 @@ img {
 }
 .nike__post__main__discription__vote {
     width: 80%;
-    height: 50px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
     direction: rtl;
     cursor: pointer;
-    z-index: 5;
+    z-index: 4;
 }
 .nike__post__main__discription__vote a {
-    font-size: 25px;
+    font-size: 30px;
     color: #9da1a6;
     transition: .3s all;
 }
