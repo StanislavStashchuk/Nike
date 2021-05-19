@@ -143,6 +143,7 @@ img {
     justify-content: center;
     direction: rtl;
     cursor: pointer;
+    z-index: 5;
 }
 .nike__post__main__discription__vote a {
     font-size: 25px;
