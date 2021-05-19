@@ -22,9 +22,9 @@ body {
     justify-content: center;
     align-items: center;
 }
-/*-------------------------*/
+
 /*-----nike__container-----*/
-/*-------------------------*/
+
 .blue__background {
     background-image: url('/img/nike__background2.png');    
     background-repeat: no-repeat;
@@ -47,9 +47,9 @@ body {
     justify-content: center;
     align-items: center;
 }
-/*--------------------*/
+
 /*-----nike__post-----*/
-/*--------------------*/
+
 .nike__post {
     height: 390px;
     width: 685px;
@@ -71,9 +71,9 @@ body {
 img {
     padding: 20px;
 }
-/*--------------------------------*/
+
 /*-----nike__post__main__item-----*/
-/*--------------------------------*/
+
 .nike__post__main__item {
     height: 310px;
     width: 53%
@@ -119,9 +119,9 @@ img {
 .blue {
     background-color: #29e3ea;
 }
-/*---------------------------------------*/
+
 /*-----nike__post__main__discription-----*/
-/*---------------------------------------*/
+
 .nike__post__main__discription {
     height: 310px;
     width: 47%;
@@ -235,7 +235,7 @@ select {
     border-radius: 0;
 }
 select:hover {
-    box-shadow: inset 139px 0 0 0 #202835;;
+    box-shadow: inset 139px 0 0 0 #202835;
 }
 
 
